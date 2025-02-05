@@ -93,7 +93,7 @@ header{
 .btn1:hover{
     background-color: #A6729C ;
     cursor: pointer;
-    transform: scale(1.05);
+    transform: translateX(50px) scale(1.05);
 }
 
 /* section 2 */
