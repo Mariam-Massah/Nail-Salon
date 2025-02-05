@@ -218,7 +218,7 @@ header{
 }
 .member img{
     width: 100%;
-    border-radius: 50px;
+    border-radius: 50px 50px 50px 0;
 }
 .member-info{
     background-color: #D89AC5;
