@@ -3,7 +3,7 @@
 }
 .landing-page{
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(landing.jpg) center/cover no-repeat;
-    background-size: cover; /* Makes the image cover the entire section */
+    background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
