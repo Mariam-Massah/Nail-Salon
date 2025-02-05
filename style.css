@@ -93,7 +93,6 @@ header{
 .btn1:hover{
     background-color: #A6729C ;
     cursor: pointer;
-    transform: translateX(50px) scale(1.05);
 }
 
 /* section 2 */
@@ -220,6 +219,7 @@ header{
 .member img{
     width: 100%;
     border-radius: 50px 50px 50px 0;
+    box-shadow:20px 20px 20px rgba(0,0,0,0.2);
 }
 .member-info{
     background-color: #D89AC5;
@@ -227,6 +227,8 @@ header{
     font-size: x-large;
     border-radius: 30px;
     transform: translateY(-50px);
+    box-shadow:20px 20px 20px rgba(0,0,0,0.2);
+
 }
 .member-info h3,h5{
     padding: 10px;
